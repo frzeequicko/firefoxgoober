@@ -1,0 +1,7 @@
+language = "bash"
+audio = true
+run = "firefox -private -url https://sites.google.com/husdstudent.com/replfirefoxhome/home"
+
+[nix]
+channel = "stable-22_11"
+
